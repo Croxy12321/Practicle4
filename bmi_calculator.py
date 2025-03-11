@@ -4,7 +4,7 @@ bmi = weight / (height ** 2)
 if bmi < 18.5:
     category = "underweight"
 elif 18.5 <= bmi < 30:
-    category = "normal"
+    category = "normal weight"
 else:
     category = "obese"
 
